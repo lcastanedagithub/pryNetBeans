@@ -11,8 +11,6 @@ public class PrincipalEscuela {
         
         AlumnoIMPDAO objDao = new AlumnoIMPDAO();
         
-        /*
-        
         
         objAl.setNombre("Juan Perez");
         objAl.setEdad(20);
@@ -37,7 +35,7 @@ public class PrincipalEscuela {
         System.out.println(objAl.mostrarInfo());
         System.out.println("------------------------");
         System.out.println(objDoc.mostrarInfo());
-        */
+        System.out.println("Se agrega al nuevo comitt");
     }
 
     
